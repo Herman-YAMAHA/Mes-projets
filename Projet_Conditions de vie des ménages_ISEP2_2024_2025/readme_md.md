@@ -40,7 +40,7 @@ Le fichier `Report_Herman_Parfait_NGAKE_YAMAHA.pdf` aborde notamment :
 
 ---
 
-## 👤 Auteur
+## Auteur
 **Herman Parfait NGAKE YAMAHA**  
-*élève Statisticien Économiste (ISEP2)*  
+*Élève Ingénieur Statisticien Économiste*  
 École Nationale de la Statistique et de l'Analyse Économique (ENSAE Pierre Ndiaye) – Dakar, Sénégal
