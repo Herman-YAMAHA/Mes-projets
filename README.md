@@ -1,4 +1,4 @@
 # Mes projets
 
-Ce répertoire présente un ensemble de projets dans lesquels j'ai eu à travailler.
+Ce répertoire rassemble un ensemble de projets sur lesquels j'ai eu l'opportunité de travailler.
 
